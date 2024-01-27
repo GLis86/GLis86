@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1>Hi, I'm Gabe! <br/> <a href="https://www.linkedin.com/in/gabriel-lister/">Cybersecurity Professional</a> </h1>
 
-<!--
-**GLis86/GLis86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>SIEM Home lab using Elastic</b>
+  - [Praciting DS & Algos in Python](https://github.com/)
+ 
+- <b>Python</b>
+  - [Keylogger](https://github.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>✅ Certifications</h2>
+
+- [CompTIA CySA+](https://www.credly.com/badges/16888e55-9c10-4c8c-8689-2adeef263bb8)
+
+- [CompTIA Sec+](https://www.credly.com/badges/1e514f91-3b85-4593-929d-ea169a74b8da)
+  
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="GabrielLister | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/gabriel-lister
