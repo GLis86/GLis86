@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>SIEM Home lab using Elastic</b>
-  - [Praciting DS & Algos in Python](https://github.com/)
+- <b>SIEM Home Lab</b>
+  - [Elastic Cloud Stack with Elastic Defender](https://github.com/GLis86/SIEM-Lab-with-Elastic)
  
 - <b>Python</b>
   - [Keylogger](https://github.com/)
